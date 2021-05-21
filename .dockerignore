@@ -1,0 +1,6 @@
+node_modules 
+# build image จาก dockerfile ภายใน directory
+.dockerignore
+Dockerfile
+Dockerfile.dev
+.travis.yml

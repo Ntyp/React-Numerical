@@ -1,0 +1,49 @@
+.ant-card-body{
+    background:#ffffff;
+    size: 50%;
+}
+.Input{
+    width: 40%;
+}
+
+.allinbisetion{
+    background-color:#ffffff;
+    border-radius: 20px;
+}
+.MakeMatrix{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+
+.button_laout{
+    margin: 5px;
+}
+.Input_2{
+    width: 100px;
+    margin: 20px;
+}
+
+.in_box{
+    margin-left: 20px;
+    
+}
+
+.Calculate_Button{
+    margin-left: 10px;
+    
+}
+
+.result{
+    text-align: left;
+    margin-left: 45%;
+    font-size: 15px;
+}
+
+.Chart{
+    text-align: center;
+}
+.Input-Data{
+    margin-top: 15px;
+}
